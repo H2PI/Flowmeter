@@ -1,5 +1,5 @@
 #H2PI Flowmeter Program
-#Created by Toby Cook
+#Created by he H2PI Team
 #Date:29/11/2017
 import time as t
 import RPi.GPIO as GP
