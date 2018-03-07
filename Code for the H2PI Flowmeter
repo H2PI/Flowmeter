@@ -1,6 +1,7 @@
 #H2PI Flowmeter Program
-#Created by he H2PI Team
+#Created by the H2PI Team
 #Date:29/11/2017
+
 import time as t
 import RPi.GPIO as GP
 import bluetooth
